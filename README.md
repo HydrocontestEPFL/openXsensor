@@ -10,7 +10,7 @@ The purpose of the code is to transfer data like voltage of the battery/ current
 * Clean the code a bit
 
 
-# The following section is extracted from the upstream bracnh of this fork
+# The following section is extracted from the upstream branch of this fork
 
 ## OpenXsensor New Home
 _from may 2015_
