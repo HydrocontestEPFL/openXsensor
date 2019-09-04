@@ -1,3 +1,17 @@
+## OpenXsensor done for the energymetre of HydroX
+
+This code was modified to read the energymetre that was provided by HEIG-FR to the HydroX competition. 
+
+The purpose of the code is to transfer data like voltage of the battery/ current draw into a SmartPort for the Frsky reciever to emmite in the telemetry channel. 
+
+## Stil to be done:
+
+* Read and send the values of a basic GPS module to the transmiter (speed, etc)
+* Clean the code a bit
+
+
+# The following section is extracted from the upstream bracnh of this fork
+
 ## OpenXsensor New Home
 _from may 2015_
 
